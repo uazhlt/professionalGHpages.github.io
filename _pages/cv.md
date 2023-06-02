@@ -38,6 +38,7 @@ Skills
 
 Publications
 ======
+  # Can be listed manually, or generated from site elements using the following code: (only if you add these components back in)
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
