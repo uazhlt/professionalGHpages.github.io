@@ -5,14 +5,16 @@ A Github Pages template for your professional website, in order to document your
 # Instructions
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/uazhlt/professionalGHpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Copy [this repository](https://github.com/uazhlt/professionalGHpages.github.io) by clicking the "Use this template" button in the top right. 
+1. Go to the settings of your new repository (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata. You should start by personalizing the URL and other links in `_config.yml` (your site probably won't display properly until you do this, since there are currently placeholders in the URL like `yourGHusername`). Stubs have been created in this repository to meet the basic requirements of the MSHLT internship-reporting professional website. Your website will be evaluated for the minimum content requirements, but you're free to add *more* content, if you'd like. (see the instructions below for more suggestions; also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a CSV file.
 
 See more info at https://academicpages.github.io/
+
+To find a different Jekyll theme, should you want to use a different one, you can start looking at https://jekyllthemes.io/free
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
