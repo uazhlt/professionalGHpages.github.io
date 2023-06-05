@@ -14,7 +14,7 @@ A Github Pages template for your professional website, in order to document your
 
 See more info at https://academicpages.github.io/
 
-To find a different Jekyll theme, should you want to use a different one, you can start looking at https://jekyllthemes.io/free
+To find a different Jekyll theme, should you want to use a different one, you can start looking at https://jekyllthemes.io/free. You can find detailed instructions for how to choose a different theme [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll).
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
