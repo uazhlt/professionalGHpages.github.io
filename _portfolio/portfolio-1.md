@@ -11,7 +11,7 @@ As you're describing the content of your internship, be sure to describe how you
 ## Evaluation criteria
 Remember that each of the two projects in your portfolio will be evaluated on these points:
 
-* **Length**: A summary of the project goals, technology used, and outcomes, as appropriate for a general technical audience, between 1000 and 2000 words (not counting code)
+* **Length**: A summary of the project goals, technology used, and outcomes, as appropriate for a general technical audience, between 1000 and 3000 words (not counting code)
 * **Content**: student’s experience demonstrates the learning outcomes for the MSHLT program [^note]
 * **Code**: Code is contained in the site, or a link to the code (such as in a GitHub repository) exists on the site.
 * **Professionalism**: Free of grammatical, mechanical, and stylistic issues
